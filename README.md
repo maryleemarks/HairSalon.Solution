@@ -31,7 +31,7 @@ This is a C# client and stylist tracker app for a hair salon. It allows the user
 
 ##### Open Locally
 
-- Click on the link to my repository: [https://github.com/HR-Williams/HairSalon.Solution]()
+- Click on the link to my repository: [https://github.com/maryleemarks/HairSalon.Solution]()
 - Click on the green "Code" button and copy the repository URL
 - Open your terminal and use the command `git clone https://github.com/HR-Williams/HairSalon.Solution` into the directory you would like to clone the repository
 - Open in text editor to view code and make changes
